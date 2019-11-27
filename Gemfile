@@ -13,3 +13,5 @@ gem 'bitfinex-rb', '~> 1.0', require: 'bitfinex'
 gem 'dotenv', '~> 2.5'
 
 gem 'pry-byebug', group: :devlopment
+
+gem "webmock", "~> 3.7", :group => :test
